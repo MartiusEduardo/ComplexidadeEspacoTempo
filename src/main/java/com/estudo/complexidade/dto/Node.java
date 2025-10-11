@@ -3,6 +3,7 @@ package com.estudo.complexidade.dto;
 public class Node {
 	private int key;
     private Node left, right;
+    
     public Node(int key) { this.key = key; }
     
 	public int getKey() {
