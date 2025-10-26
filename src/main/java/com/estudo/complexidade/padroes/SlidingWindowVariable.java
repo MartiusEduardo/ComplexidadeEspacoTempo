@@ -21,9 +21,9 @@ public class SlidingWindowVariable {
     }
 
     public static void main(String[] args) {
-//        int[] nums = {2, 1, 5, 2, 3, 2};
-    	int[] nums = {2, 1, 5, 2, 3, 2, 6, 12, 8, 5, 15, 90, 45, 32, 16, 1, 7, 9};
-        int S = 140;
+        int[] nums = {2, 1, 5, 2, 3, 2};
+//    	int[] nums = {2, 1, 5, 2, 3, 2, 6, 12, 8, 5, 15, 90, 45, 32, 16, 1, 7, 9};
+        int S = 7;
         System.out.println(minSubArrayLen(S, nums)); // Saída: 2 (5 + 2)
     }
 }
