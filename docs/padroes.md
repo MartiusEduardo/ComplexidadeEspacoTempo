@@ -241,6 +241,8 @@ Declaração do problema: Execute a travessia de ordem de uma árvore binária.
 
 ## 11. Pesquisa em profundidade (Depth-First Search DFS)
 
+![](_images/padroes/f3a613af-74a9-4764-8e6e-297a40e15a42_1456x817.webp)
+
 A pesquisa em profundidade (DFS) é uma técnica de travessia que explora o mais longe possível em uma ramificação antes de retroceder.
 
 Use esse padrão para explorar todos os caminhos ou ramificações em gráficos ou árvores.
