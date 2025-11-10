@@ -28,6 +28,8 @@ public class TwoPointers {
         // Se o loop terminar, nenhum par foi encontrado
         return new int[]{}; // Retorna um array vazio
     }
+	
+	
 
     public static void main(String[] args) {
         int[] array = {2, 5, 8, 11, 14};
