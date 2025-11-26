@@ -1,4 +1,4 @@
-package com.estudo.complexidade.hackerrank;
+package com.estudo.complexidade.hackerrank.arrays;
 
 import java.util.ArrayList;
 import java.util.List;
